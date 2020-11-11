@@ -1,0 +1,24 @@
+{
+    "kitch": [
+        {
+            "keyboard": "Women Jackie Tank Bodysuit",
+            "size": "M",
+            "quntity": 2
+        },
+        {
+            "keyboard": "Agolde Nico",
+            "size": 24,
+            "quntity": 1
+        }
+    ],
+    "notre": [],
+    "contacts": {
+        "firstName": "test",
+        "lastName": "test",
+        "tel": "+79103696194",
+        "address1": "test, 4",
+        "city": "Moscow",
+        "email": "test@test.com",
+        "zip": "308000"
+    }
+}
